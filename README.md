@@ -11,6 +11,18 @@
 ***
 ***
 
+###  [WIKIART](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/wikiart.py)
+
+<a href="https://www.wikiart.org">
+  <img src="https://s3.amazonaws.com/uploads.uservoice.com/logo/design_setting/2027/original/WIKI-ART-364x78.png?1403267184">
+</a>
+
+>simple web scraping code to obtain paintings by artist name from website [wikiart](https://www.wikiart.org)
+
+
+***
+
+
 ###  [AZNUDE](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/aznude.py)
 
 <a href="https://www.aznude.com">
