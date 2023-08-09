@@ -22,6 +22,15 @@
 
 ***
 
+###  [GLOBAL GREY BOOKS](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/globalgreybooks.py)
+
+<a href="https://www.globalgreybook.com">
+  <img src="https://www.globalgreyebooks.com/content/site-images/site-wide/logox702.png">
+</a>
+
+>simple web scraping code to obtain book's detailsand download links by authour's name from website [global grey books](https://www.globalgreybooks.com)
+
+***
 
 ###  [AZNUDE](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/aznude.py)
 
