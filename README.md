@@ -1,4 +1,12 @@
-## ***Kevs-scrapers***
+# ***Kevs-scrapers***
+
+>web scraping in python using **requests** and **bs4** of some good sites.
+
+>[!NOTE]
+>all the codes uses pure scraping by requests and bs4 so it won't work if website changes it's code.
+
+
+
 
 ***
 ***
@@ -9,10 +17,7 @@
   <img src="https://cdn.aznude.com/images/logo.png">
 </a>
 
->simple telegram bot to obtain images and video by actress name from website [aznude](https://www.aznude.com)
-
->[!NOTE]
->this bot uses pure scraping by requests and bs4.
+>simple web scraping code to obtain images and video by actress name from website [aznude](https://www.aznude.com)
 
 
 ***
@@ -23,10 +28,7 @@
   <img src="https://fapello.com/assets/images/logo-mobile.png">
 </a>
 
->simple telegram bot to obtain images and video by model name from website [fapello](https://www.fapello.com)
-
->[!NOTE]
->this bot uses pure scraping by requests and bs4.
+>simple web scraping code to obtain images and video by model name from website [fapello](https://www.fapello.com)
 
 
 ***
@@ -38,13 +40,8 @@
 </a>
 
 
->a telegram bot to search videos by a keyword and download them from website [pornhub](https://www.pornhub.com)
+>a program to search videos by a keyword and get url of all videos from [pornhub](https://www.pornhub.com)
 
->[!NOTE]
->this bot uses python-ARQ api for search and YT-DL for download.
-
->[!WARNING]
->ARQ can close their API whenever they want so don't expect forever working code.
 
 
 ***
@@ -55,11 +52,7 @@
   <img src="https://i.imgur.io/uLAimaY_d.webp?maxwidth=640&shape=thumb&fidelity=medium">
 </a>
 
->simple telegram bot to get telegraph doujin by it's code from website [nhentai](https://www.nhentai.to)
-
->[!NOTE]
->this bot uses pure scraping by requests and bs4.
-
+>simple program to get telegraph link of doujin by it's code from website [nhentai](https://www.nhentai.to)
 
 
 ***
