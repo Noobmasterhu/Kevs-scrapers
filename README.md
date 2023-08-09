@@ -24,7 +24,7 @@
 
 ###  [GLOBAL GREY BOOKS](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/globalgreybooks.py)
 
-<a href="https://www.globalgreybook.com">
+<a href="https://www.globalgreybooks.com">
   <img src="https://www.globalgreyebooks.com/content/site-images/site-wide/logox702.png">
 </a>
 
@@ -38,7 +38,7 @@
   <img src="https://i.ibb.co/2SgLwsY/Screenshot-2023-08-09-22-00-12-064-com-brave-browser.png">
 </a>
 
->simple web scraping code to obtain poems by authour's name from website [hellopoetry] ](https://www.hellopoetry.com)
+>simple web scraping code to obtain poems by authour's name from website [hellopoetry](https://www.hellopoetry.com)
 
 ***
 
