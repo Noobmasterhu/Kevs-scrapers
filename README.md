@@ -32,6 +32,16 @@
 
 ***
 
+###  [hellopoetry](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/hellopoetry.py)
+
+<a href="https://www.hellopoetry.com">
+  <img src="https://i.ibb.co/2SgLwsY/Screenshot-2023-08-09-22-00-12-064-com-brave-browser.png">
+</a>
+
+>simple web scraping code to obtain poems by authour's name from website [hellopoetry] ](https://www.hellopoetry.com)
+
+***
+
 ###  [AZNUDE](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/aznude.py)
 
 <a href="https://www.aznude.com">
