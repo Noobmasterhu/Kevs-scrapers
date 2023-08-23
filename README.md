@@ -80,7 +80,7 @@
 ### [NHENTAI](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/nhentai.py) 
 
 <a href="https://www.nhentai.net">
-  <img src="https://i.imgur.io/uLAimaY_d.webp?maxwidth=640&shape=thumb&fidelity=medium">
+  <img src="https://i.imgur.io/uLAimaY_d.webp?maxwidth=640&shape=thumb&fidelity=medium" height=65 width=auto>
 </a>
 
 >simple program to get telegraph link of doujin by it's code from website [nhentai](https://www.nhentai.to)
