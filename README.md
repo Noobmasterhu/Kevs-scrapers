@@ -42,6 +42,15 @@
 
 ***
 
+###  [letterboxd](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/letterboxd.py)
+
+<a href="https://www.letterboxd.com">
+  <img src="https://a.ltrbxd.com/logos/letterboxd-logo-h-neg-rgb-1000px.png">
+</a>
+
+>simple web scraping code to obtain movie info by it's name or list url from website [letterboxd](https://www.letterboxd.com)
+
+***
 ###  [AZNUDE](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/aznude.py)
 
 <a href="https://www.aznude.com">
