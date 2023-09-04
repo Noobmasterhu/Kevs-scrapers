@@ -51,6 +51,18 @@
 >simple web scraping code to obtain movie info by it's name or list url from website [letterboxd](https://www.letterboxd.com)
 
 ***
+
+###  [google](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/googlesearch.py)
+
+<a href="https://www.google.com">
+  <img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-sva-scholarship-20.png">
+</a>
+
+>simple web scraping code to get searches by keyword from [google](https://www.google.com)
+
+***
+
+
 ###  [AZNUDE](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/aznude.py)
 
 <a href="https://www.aznude.com">
