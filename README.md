@@ -63,6 +63,17 @@
 ***
 
 
+###  [Astronomy Picture Of the Day](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/apod.py)
+
+<a href="https://apod.nasa.gov/apod/astropix.html">
+  <img src="https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/apod_logo.png?itok=6It-nhCr">
+</a>
+
+>simple web scraping code to get details about today's astronomy picture of the day from [apod](https://apod.nasa.gov/apod/astropix.html)
+
+***
+
+
 ###  [AZNUDE](https://github.com/Noobmasterhu/Kevs-scrapers/blob/main/aznude.py)
 
 <a href="https://www.aznude.com">
